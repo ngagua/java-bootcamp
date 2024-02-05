@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64996a24-9232-4068-b221-8ee5ae2ef997" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/Module1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/src/dev/omedia/main/ModuleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/src/dev/omedia/main2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootcamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/Exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/Exceptions/exeption/IllegalSizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/Exceptions/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/Stream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/Stream/tecnolab/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/Stream/tecnolab/LaptopType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/arrays/universe/CelestialBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/arrays/universe/Named.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/enums/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/enums/WeekDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/enums/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/files/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/files/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/files/stats.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/files/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/InterruptThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/memory/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/memory/Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/memory/Locking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/memory/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/memory/TestMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/memory/Volatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/threads/threadsToExecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2bwmLVwBYWjlHm8s6v8JTfDD8u1" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikusha\Desktop\java\bootcamp\src" />
+      <recent name="C:\Users\Nikusha\Desktop\java\bootcamp\Module2\src\dev\omedia\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.Main" />
+      <module name="bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-3183f394aec4-d55de845" />
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64996a24-9232-4068-b221-8ee5ae2ef997" name="Changes" comment="" />
+      <created>1707134462758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707134462758</updated>
+      <workItem from="1707134465052" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
